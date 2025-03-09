@@ -1,0 +1,12 @@
+{
+  "name": "user-workspace",
+  "version": "1.0.0",
+  "description": "QuickBucks is a modern task marketplace that connects task posters with skilled Taskers, featuring AI-powered matching, secure payments, and AR-based task verification.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
